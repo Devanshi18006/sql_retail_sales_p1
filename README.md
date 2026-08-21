@@ -175,7 +175,7 @@ This project serves as a comprehensive introduction to SQL for data analysts, co
 
 1. **Clone the Repository:** Clone this repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/sql-retail-sales-analysis.git
+   git clone https://github.com/Devanshi18006/sql-retail-sales-analysis.git
    ```
 2. **Set Up the Database:** Run the SQL script `sql_query_p1.sql` to create and populate the database.
 3. **Run the Queries:** Use the SQL queries provided in the script to perform your own analysis.
